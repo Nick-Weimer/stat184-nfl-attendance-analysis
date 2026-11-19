@@ -4,7 +4,7 @@
 ## Group Members
 - Dylan Bonasera
 - Elijah Grandas
-- Nick Manone
+- Nick Mannone
 - Nick Weimer
 
 ## Project Overview
