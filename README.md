@@ -18,11 +18,13 @@ Is there a significant correlation between NFL teams' winning percentages and th
    - Source: https://www.kaggle.com/datasets/sujaykapadnis/nfl-stadium-attendance-dataset
    - Years: 2000–2019
    - Includes NFL attendance by team, season, and week.
+   - License: Listed as "other" on Kaggle
 
 2. NFL Team Data 2003–2023
    - Source: https://www.kaggle.com/datasets/nickcantalupa/nfl-team-data-2003-2023
    - Years: 2003–2023
    - Includes team-level performance statistics and winning percentages.
+   - License: Public Domain
 
 The overlapping period is 2003–2019.
 
@@ -47,8 +49,6 @@ We plan to estimate the Pearson correlation coefficient, conduct a two-sided cor
 
 ## How to Reproduce
 1. NOT COMPLETE
-
-The final report will be available in HTML and Word formats.
 
 ## Repository Files
 - NOT COMPLETE
